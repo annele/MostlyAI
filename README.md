@@ -8,11 +8,11 @@ for the how to install cypress information you can refer to the cypress guides: 
 
 #How to run
 
-pull the project from github
-in terminal run: npx cypress run
-in the opened cypress window select 'E2E Testing'
-select Chrome browser and press ' Start E2E Testing in Chrome'
-in the opened browser page click on 'testChallenge' file to run the tests 
+1. clone the repository from github
+2. in terminal run: npx cypress open
+3. in the opened cypress window select 'E2E Testing'
+4. select Chrome browser and press ' Start E2E Testing in Chrome'
+5. in the opened browser page click on 'testChallenge' file to run the tests 
 
 
 #Issues
